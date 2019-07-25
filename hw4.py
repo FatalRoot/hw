@@ -2,7 +2,7 @@
 '''
 Python v3.7
 July 24, 2019
-Homework 4 - Kassandra Bethune
+Homework 4 - KB
 hw4.py
 '''
 
